@@ -155,3 +155,16 @@ If you are a collaborator, please follow our [Pull Request principle](https://gi
 [![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
 
 [![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
+
+<!-- nougen:fleet-role:begin (generated from NouGenRelay fleet/manifest.json; edit the manifest, not this block) -->
+## Fleet role
+
+| | |
+|---|---|
+| Role | 🌈  A UI Design Language and React UI library |
+| Kind | genesis_domain |
+| Status | canonical |
+| Canonical for | antd |
+| Visibility | public |
+
+<!-- nougen:fleet-role:end -->
